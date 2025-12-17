@@ -66,7 +66,7 @@ export default function Login() {
             <LogIn className="h-8 w-8 text-primary" />
           </div>
           <CardTitle className="text-2xl">Login</CardTitle>
-          <CardDescription>Masuk ke akun Lapor Warga Anda</CardDescription>
+          <CardDescription>Masuk ke akun SIPEMA Anda</CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">

@@ -114,7 +114,7 @@ export default function Register() {
             <UserPlus className="h-8 w-8 text-primary" />
           </div>
           <CardTitle className="text-2xl">Daftar Akun</CardTitle>
-          <CardDescription>Buat akun baru untuk Lapor Warga</CardDescription>
+          <CardDescription>Buat akun baru untuk SIPEMA</CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">

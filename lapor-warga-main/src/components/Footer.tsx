@@ -1,4 +1,4 @@
-import { MessageSquareWarning, Mail, Phone, MapPin } from 'lucide-react';
+import { MessageSquareWarning, Mail, Phone, MapPin } from "lucide-react";
 
 export function Footer() {
   return (
@@ -11,7 +11,7 @@ export function Footer() {
                 <MessageSquareWarning className="h-5 w-5 text-primary-foreground" />
               </div>
               <div>
-                <h3 className="text-lg font-bold">Lapor Warga</h3>
+                <h3 className="text-lg font-bold">SIPEMA</h3>
                 <p className="text-sm opacity-70">
                   Sistem Pengaduan Masyarakat
                 </p>
@@ -38,12 +38,12 @@ export function Footer() {
                 className="flex items-center gap-2 text-sm opacity-70 hover:opacity-100 transition-opacity"
               >
                 <Mail className="h-4 w-4" />
-                lapor@warga.go.id
+                sipema@gmail.com
               </a>
               <div className="flex items-start gap-2 text-sm opacity-70">
                 <MapPin className="h-4 w-4 mt-0.5" />
                 <span>
-                  Jl. Pelayanan Publik No. 1<br />
+                  Jl. Rawamangun Muka Raya<br />
                   Jakarta, Indonesia
                 </span>
               </div>
@@ -64,9 +64,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-background/20 text-center text-sm opacity-70">
-          <p>
-            &copy; {new Date().getFullYear()} Lapor Warga. Hak Cipta Dilindungi.
-          </p>
+          <p>&copy; {new Date().getFullYear()} SIPEMA. Hak Cipta Dilindungi.</p>
         </div>
       </div>
     </footer>
