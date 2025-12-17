@@ -1,8 +1,8 @@
-# 📢 Sistem Informasi Pengaduan Masyarakat (SIPM)
+# 📢 Sistem Informasi Pengaduan Masyarakat (SIPEMA)
 
 <div align="center">
 
-![Lapor Warga](https://img.shields.io/badge/Lapor-Warga-blue?style=for-the-badge)
+![SIPEMA](https://img.shields.io/badge/SIPEMA-blue?style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-12-red?style=for-the-badge&logo=laravel)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
